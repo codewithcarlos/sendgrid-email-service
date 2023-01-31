@@ -16,6 +16,10 @@ Example payload:
 ```
 
 Added unit tests for the EmailServiceSendGrid class.
+
 Added toggle in application.properties (email.filter.enabled=true)
+
 Added an optional boolean QueryParam enrich=true to enrich the email messages 
-by appending a random quote of the day from Ninja API (https://api-ninjas.com/api/quotes)
+by appending a random quote of the day from Ninja API
+
+(https://api-ninjas.com/api/quotes)
